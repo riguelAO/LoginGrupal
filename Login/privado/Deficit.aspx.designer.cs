@@ -15,13 +15,13 @@ namespace Login.privado
     {
 
         /// <summary>
-        /// Control form1.
+        /// Control form2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form2;
 
         /// <summary>
         /// Control txtCodDeficit.
@@ -33,13 +33,13 @@ namespace Login.privado
         protected global::System.Web.UI.WebControls.TextBox txtCodDeficit;
 
         /// <summary>
-        /// Control txttipoDeficit.
+        /// Control txtTipoDeficit.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txttipoDeficit;
+        protected global::System.Web.UI.WebControls.TextBox txtTipoDeficit;
 
         /// <summary>
         /// Control txtCodEstudiante.
@@ -51,39 +51,39 @@ namespace Login.privado
         protected global::System.Web.UI.WebControls.TextBox txtCodEstudiante;
 
         /// <summary>
-        /// Control btnAgregar.
+        /// Control Button1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnAgregar;
+        protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// Control btnEliminar.
+        /// Control Button2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnEliminar;
+        protected global::System.Web.UI.WebControls.Button Button2;
 
         /// <summary>
-        /// Control btnActualizar.
+        /// Control Button3.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnActualizar;
+        protected global::System.Web.UI.WebControls.Button Button3;
 
         /// <summary>
-        /// Control gvCliente.
+        /// Control gvDeficit.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvCliente;
+        protected global::System.Web.UI.WebControls.GridView gvDeficit;
     }
 }

@@ -47,16 +47,15 @@ namespace Login
             if (valores[0] == "0" && valores[1] == "administrador")
             {
                 System.Web.Security.FormsAuthentication.RedirectFromLoginPage(user, false);
-
             }
-            else if (valores[0] == "0" && valores[1] == "docente")
-            {
-                Login1.FailureText = "Usted es docente, no tiene acceso al sistema";
-            }
-            else
-            {
-                Login1.FailureText = valores[1];
-            }
+            //else if (valores[0] == "0" && valores[1] == "docente")
+            //{
+                //Login1.FailureText = "Usted es docente, no tiene acceso al sistema";
+            //}
+            //else
+            //{
+                //Login1.FailureText = valores[1];
+            //}
         }
     }
 }

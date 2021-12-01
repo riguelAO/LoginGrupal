@@ -41,8 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Curso.cs" />
+    <Compile Include="DeficitCN.cs" />
+    <Compile Include="DiagnosticoCN.cs" />
+    <Compile Include="DocenteCN.cs" />
     <Compile Include="EstudianteCN.cs" />
+    <Compile Include="Grado.cs" />
+    <Compile Include="interface\ICurso.cs" />
+    <Compile Include="interface\IDeficit.cs" />
+    <Compile Include="interface\IDiagnostico.cs" />
+    <Compile Include="interface\IDocente.cs" />
     <Compile Include="interface\IEstudiante.cs" />
+    <Compile Include="interface\IGrado.cs" />
     <Compile Include="interface\IUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuarioBL.cs" />

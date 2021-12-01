@@ -15,13 +15,13 @@ namespace Login.privado
     {
 
         /// <summary>
-        /// Control form1.
+        /// Control form2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form2;
 
         /// <summary>
         /// Control txtCodDiagnostico.
@@ -78,12 +78,12 @@ namespace Login.privado
         protected global::System.Web.UI.WebControls.Button btnActualizar;
 
         /// <summary>
-        /// Control gvCliente.
+        /// Control gvDiagnostico.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gvCliente;
+        protected global::System.Web.UI.WebControls.GridView gvDiagnostico;
     }
 }
